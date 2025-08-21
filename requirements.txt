@@ -1,0 +1,1 @@
+pandas==2.2.2\nnumpy==1.26.4\nmatplotlib==3.9.2\nstatsmodels==0.14.2
